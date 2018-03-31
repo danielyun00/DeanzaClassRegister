@@ -64,7 +64,7 @@ An app to help De Anza students schedule and even register classes.
    ...
    }
    ```
-
+5. Put reusable or repeated constant in one swift file.
 
 
 
